@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/react-cookies": "^0.1.0",
     "@vercel/analytics": "^0.1.6",
     "@vercel/examples-ui": "^1.0.4",
     "next": "latest",
@@ -16,6 +17,7 @@
     "react": "latest",
     "react-cookie": "^4.1.1",
     "react-dom": "latest",
+    "react-icons": "^4.7.1",
     "react-wrap-balancer": "^0.1.5"
   },
   "devDependencies": {
